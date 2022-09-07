@@ -38,13 +38,13 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Gallery"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/pages/about/"
     weight = 3
 
 [[menu.main]]

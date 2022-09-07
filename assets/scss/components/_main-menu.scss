@@ -24,7 +24,7 @@
 
         &:hover {
           background: $primary;
-          color: #9eb1ab;
+          color: #87aa9f;
           text-decoration: none;
         }
       }
@@ -33,13 +33,13 @@
         >a {
           background: $primary;
           text-decoration: none;
-          color: #ffffff;
+          color: #87aa9f;
 
           &:hover {
             text-decoration: none;
             background: $primary;
             transition: all 225ms ease-in 0s;
-            color: #ffffff;
+            color: #517369;
           }
         }
       }

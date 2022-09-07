@@ -17,13 +17,13 @@ $grid-gutter-width: 20px;
 
 $white: #ffffff;
 $black: #000000;
-$primary: #1c3ed3;
-$secondary: #43454d;
+$primary: #1c3ed300;
+$secondary: #517369;
 
 // Links
-$link-color: $primary;
+$link-color: #517369;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 20%);
+$link-hover-color: lighten(#517369, 20%);
 $link-hover-decoration: underline;
 
 // Fonts

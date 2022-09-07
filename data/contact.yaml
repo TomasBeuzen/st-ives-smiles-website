@@ -1,9 +1,10 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+email: "example@example.com"
+phone: "(02) 9488 8378"
+businessName: "Hugo Serif"
 address: |
-  123 Some Street
-  City, State 12345
+  7/160 Warrimoo Ave,
+  St Ives, NSW,
+  2075
 hours:
   - day: Monday
     open: 8:30am
@@ -21,7 +22,7 @@ hours:
     open: 8:30am
     close: 5:00pm
   - day: Saturday
-    open: Closed
+    open: By appointment
     close:
   - day: Sunday
     open: Closed
