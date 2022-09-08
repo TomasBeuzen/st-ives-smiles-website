@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'A Delicious Dentist'
 weight: 100
-background: 'images/jeremy-header.png'
-button: ''
-buttonLink: ''
+background: 'images/jeremy-header.jpg'
+button: 'Read more'
+buttonLink: '/pages/about/'
 ---
 
 Located in the heart of St Ives Chase for over 30 years, we are a family practice, providing quality dental services for all ages.

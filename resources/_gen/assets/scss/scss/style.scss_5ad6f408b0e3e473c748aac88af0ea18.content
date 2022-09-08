@@ -13,7 +13,7 @@
   --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #1c3ed300;
+  --primary: #517369;
   --secondary: #517369;
   --success: #28a745;
   --info: #17a2b8;
@@ -1012,13 +1012,13 @@ mark,
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: rgba(255, 255, 255, 0.72); }
+  background-color: #ced8d5; }
 
 .table-hover .table-primary:hover {
-  background-color: rgba(242, 242, 242, 0.72); }
+  background-color: #c0cdc9; }
   .table-hover .table-primary:hover > td,
   .table-hover .table-primary:hover > th {
-    background-color: rgba(242, 242, 242, 0.72); }
+    background-color: #c0cdc9; }
 
 .table-secondary,
 .table-secondary > th,
@@ -1200,12 +1200,12 @@ mark,
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #1c3ed300 !important; }
+  background-color: #517369 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: rgba(22, 49, 166, 0) !important; }
+  background-color: #3c554e !important; }
 
 .bg-secondary {
   background-color: #517369 !important; }
@@ -1300,7 +1300,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #1c3ed300 !important; }
+  border-color: #517369 !important; }
 
 .border-secondary {
   border-color: #517369 !important; }
@@ -5280,10 +5280,10 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #1c3ed300 !important; }
+  color: #517369 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: rgba(22, 49, 166, 0) !important; }
+  color: #3c554e !important; }
 
 .text-secondary {
   color: #517369 !important; }
@@ -5371,7 +5371,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger.is-active .hamburger-inner,
   .hamburger.is-active .hamburger-inner::before,
   .hamburger.is-active .hamburger-inner::after {
-    background-color: #1c3ed300; }
+    background-color: #517369; }
 
 .hamburger-box {
   width: 32px;
@@ -5386,7 +5386,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #1c3ed300;
+    background-color: #517369;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -5435,7 +5435,7 @@ ol {
     flex: 1; }
 
 .header {
-  color: #1c3ed300;
+  color: #517369;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -5612,22 +5612,22 @@ ol {
         text-decoration: none;
         color: #517369; }
         .main-menu > ul > li > a:hover {
-          background: #1c3ed300;
+          background: #517369;
           color: #87aa9f;
           text-decoration: none; }
       .main-menu > ul > li.active > a {
-        background: #1c3ed300;
+        background: #517369;
         text-decoration: none;
         color: #87aa9f; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #1c3ed300;
+          background: #517369;
           transition: all 225ms ease-in 0s;
           color: #517369; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #1c3ed300;
+  background: #517369;
   top: 0;
   left: 0;
   width: 100%;
@@ -5737,7 +5737,7 @@ ul.social {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #1c3ed300; }
+    background: #517369; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -5749,7 +5749,7 @@ ul.social {
   white-space: nowrap;
   display: inline-block;
   padding: 7px 15px;
-  background: #1c3ed300;
+  background: #517369;
   font-size: 15px;
   font-weight: 600;
   text-transform: uppercase;
@@ -5760,7 +5760,7 @@ ul.social {
   transition: all 0.15s ease; }
   .button:hover {
     color: #fff;
-    background-color: rgba(61, 92, 229, 0);
+    background-color: #669184;
     text-decoration: none; }
 
 .button-white {
@@ -5769,7 +5769,7 @@ ul.social {
   border: 2px solid #fff; }
 
 .title-1 {
-  color: #1c3ed300;
+  color: #517369;
   font-size: 2.4rem;
   line-height: 1.2;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system; }
@@ -5839,7 +5839,7 @@ ul.social {
     .content h2 {
       line-height: 1.4; } }
 .content h3 {
-  color: #1c3ed300;
+  color: #517369;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -5867,7 +5867,7 @@ ul.social {
       padding-top: 200px;
       padding-bottom: 100px; } }
   .intro h1 {
-    color: #1c3ed300;
+    color: #517369;
     font-size: 2.4rem;
     line-height: 1.2;
     font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -5922,13 +5922,13 @@ ul.social {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #1c3ed300, #517369); }
+  background-image: linear-gradient(to right, #517369, #517369); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #1c3ed300, #517369); }
+  background-image: linear-gradient(to bottom, #517369, #517369); }
 
 .strip-primary {
-  background-color: #1c3ed300; }
+  background-color: #517369; }
 
 .strip-secondary {
   background-color: #517369; }
@@ -5993,14 +5993,13 @@ ul.social {
         font-size: 0.8rem;
         font-weight: 700; }
       .feature .feature-content p em {
-        color: #1c3ed300;
+        color: #517369;
         font-style: normal; }
 
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
-  background-color: #1c3ed300;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6074,7 +6073,7 @@ html {
   background-blend-mode: overlay; }
 
 .bg-primary {
-  background-color: #1c3ed300; }
+  background-color: #517369; }
 
 .bg-secondary {
   background-color: #517369; }
@@ -6123,7 +6122,7 @@ html {
   .work-summary .work-content {
     flex: 1;
     padding: 20px;
-    border-bottom: 2px solid #1c3ed300; }
+    border-bottom: 2px solid #517369; }
     .work-summary .work-content .work-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
@@ -6134,7 +6133,7 @@ html {
 .page-work-single h1.title {
   font-size: 3rem;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
-  color: #1c3ed300; }
+  color: #517369; }
 
 .page-work-single .work-image img {
   width: 100%;
