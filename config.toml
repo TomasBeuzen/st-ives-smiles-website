@@ -22,15 +22,15 @@ theme = "hugo-hero-theme"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "Located in the heart of St Ives Chase for over 30 years, we are a family practice, providing quality dental services for all ages"
+    meta_og_title = "St Ives Smiles"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_url = "https://main--symphonious-palmier-fc418b.netlify.app"
+    meta_og_image = "https://static.wixstatic.com/media/6c0d51_234419f233ce4b649ee9394c73f2256f~mv2.jpg/v1/fill/w_814,h_1220,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/theresafamily-052_JPG.jpg"
+    meta_og_description = "Located in the heart of St Ives Chase for over 30 years, we are a family practice, providing quality dental services for all ages."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@tbeuzen"
+    meta_twitter_creator = "@tbeuzen"
 
 [[menu.main]]
 	name = "Services"
